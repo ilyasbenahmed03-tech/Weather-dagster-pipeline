@@ -1,0 +1,11 @@
+dagster
+dagster-webserver
+pandas
+numpy
+requests
+scikit-learn
+sqlalchemy
+psycopg2-binary
+matplotlib
+seaborn
+python-dotenv
